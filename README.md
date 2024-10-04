@@ -2,7 +2,7 @@
 - 👀 I’m interested in Raccoons, Cats, shitposting and Windows Server 2025 Datacenter 64 bit Core
 - 🌱 I’m currently learning Powershell and Windows Server 2025 Datacenter 64 bit Core
 - 💞️ I’m looking to collaborate on shitposts
-- 📫 How to reach me contact@raccoom.de or through vocal speech patterns
+- 📫 How to reach me github@raccoom.de or through vocal speech patterns
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: 
 
